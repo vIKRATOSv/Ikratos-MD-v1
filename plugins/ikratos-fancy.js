@@ -10,7 +10,7 @@
  * @file : Ikratos-fancy.js
  **/
 
- import fancyText from '../lib/fancy.js';
+import fancyText from '../lib/fancy.js';
 
 let handler = async (m, { conn, text }) => {
 function convertText(text) {
